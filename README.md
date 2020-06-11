@@ -1,8 +1,7 @@
 # Diabetes Diagnosis
 
 ## Giới thiệu
-Ứng dụng **Diabetes Diagnosis** là ứng dụng sử dụng công nghệ hiện đại tích hợp AI 
-nhằm giúp người dùng có thể chuẩn đoán được bệnh tiểu đường. Ngoài ra ứng dụng còn giúp người dùng phòng tránh bệnh tiểu đường
+Ứng dụng **Diabetes Diagnosis** là ứng dụng sử dụng công nghệ hiện đại tích hợp AI nhằm giúp người dùng có thể chuẩn đoán được bệnh tiểu đường. Ngoài ra ứng dụng còn giúp người dùng phòng tránh bệnh tiểu đường.
 ## Hướng dẫn cài đặt
 Ứng dụng hiện có sẵn trên web:
 Link web:
@@ -15,7 +14,7 @@ Link app store:
 ## Chức năng
 Đăng kí:  
 Đăng nhập:  
-Dự đoán bênh tiểu đường qua những triệu chứng của người dùng
-Cách phòng, tránh bệnh tiểu đường  
+Dự đoán bênh tiểu đường qua những triệu chứng của người dùng.
+Cách phòng, tránh bệnh tiểu đường  .
 
 
